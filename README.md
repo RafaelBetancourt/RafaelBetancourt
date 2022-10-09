@@ -1,4 +1,4 @@
-Hello 👋 i am Rafael Gabriel and i'm about to finish my Henry´s bootcamp and i continue learning and preparing myself for my first job expirience, here are some of the technologies i've been learning thoughtout my career! 
+Hello 👋 i am Rafael Gabriel and i just finished Henry´s bootcamp and i continue learning and preparing myself for my first job expirience, here are some of the technologies i've been learning thoughtout my career! 
 
 ![stack](https://user-images.githubusercontent.com/15986248/192119426-fed9d8ea-2c1a-46ad-8ca8-2209e1374ef6.png)
 
