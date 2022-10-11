@@ -3,7 +3,7 @@ Hello 👋 i am Rafael Gabriel and i just finished Henry´s bootcamp and i conti
 ![stack](https://user-images.githubusercontent.com/15986248/192119426-fed9d8ea-2c1a-46ad-8ca8-2209e1374ef6.png)
 
 
-- 🔭 I’m currently working as a Teaching Assistant at Henry's bootcamp.
+- 🔭 I just finnished working as a Teaching Assistant at Henry's bootcamp.
 - 🌱 I’m currently learning a lot about everything 😄!!
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about anything!
