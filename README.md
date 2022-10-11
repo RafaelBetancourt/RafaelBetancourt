@@ -9,8 +9,9 @@ Hello 👋 i am Rafael Gabriel and i just finished Henry´s bootcamp and i conti
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
-     - www.linkedin.com/in/rafaelgbetancourto
-     - email: rafael18282@gmail.com  
-     - cellphone: +51917341261
+     - LinkedIn: www.linkedin.com/in/rafaelgbetancourto
+     - Email: rafael18282@gmail.com  
+     - Whatsapp [+51917341261](https://api.whatsapp.com/send/?phone=51917341261&text=Hola+,+Te+vi+en+Github&type=phone_number&app_absent=0)
+   
 - ⚡ Fun fact: I like pizzas, a lot"
 
